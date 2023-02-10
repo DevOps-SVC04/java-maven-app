@@ -74,7 +74,7 @@
  <repositories>
     <repository>
       <id>java-maven-app-group</id>
-      <url>http://:8081/repository/java-maven-app-group/</url>
+      <url>http://13.234.56.113:8081/repository/java-maven-app-group/</url>
     </repository>
   </repositories>
 
